@@ -1,5 +1,9 @@
 #Kids Learning Code: Gamemaking with Scratch
 
+Preview Facilitator Guide: https://ladieslearningcode.github.io/klc-game-making-with-scratch/facilitator-guide.html
+
+Preview Slides: https://ladieslearningcode.github.io/klc-game-making-with-scratch/slides.html
+
 HOW TO USE:
 ## Before the Workshop
 1 Week to Go
