@@ -35,7 +35,7 @@ Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-do
     * Insert the network info and bit.ly link to the Scratch class (Slide 1 and 21)
     * Edit the facilitator info with your photo and details (Slide 2 and 23)
     * Edit the Agenda to adjust timing and/or activities, if applicable (Slide 5)
-    * Edit the Example Project image and URL, if applicable (Slide 10)
+    * Replace the Example Project URL, if applicable (Slide 10)
 
 1 Day to Go
 
