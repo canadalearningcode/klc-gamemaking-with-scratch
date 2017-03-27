@@ -1,6 +1,6 @@
-#Kids Learning Code: Gamemaking with Scratch
+# Kids Learning Code: Gamemaking with Scratch
 
-##Quick Links
+##  Quick Links
 
 Preview Facilitator Guide: <a href="https://ladieslearningcode.github.io/klc-game-making-with-scratch/facilitator-guide.html">ladieslearningcode.github.io/klc-game-making-with-scratch/facilitator-guide.html</a>
 
@@ -8,14 +8,14 @@ Preview Slides: <a href="https://ladieslearningcode.github.io/klc-game-making-wi
 
 Activity List: <a href="http://bit.ly/scratch-activity-list">bit.ly/scratch-activity-list</a>
 
-##Additional Resources (Optional)
+## Additional Resources (Optional)
 
 Unplugged Activities: <a href="http://bit.ly/unplugged-activities-doc">bit.ly/unplugged-activities-doc</a>
 
 Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-doc">bit.ly/youth-facilitator-handbook-doc</a>
 
 
-#HOW TO USE:
+# HOW TO USE:
 ## Before the Workshop
 1 Week to Go
 
@@ -41,7 +41,7 @@ Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-do
 
 * Print Facilitator Guide and Solution Sheets (found in Activity List) to bring to the workshop.
 
-## During the Workshsop
+## During the Workshop
 * Have Facilitator Guide accessible throughout the workshop, follow along in the guide for support.
 * Use the slides to support the Kick-Off and Introduction.
 
