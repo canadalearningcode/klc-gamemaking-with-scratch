@@ -1,6 +1,6 @@
-#Kids Learning Code: Gamemaking with Scratch
+# Kids Learning Code: Gamemaking with Scratch
 
-##Quick Links
+## Quick Links
 
 Preview Facilitator Guide: <a href="https://ladieslearningcode.github.io/klc-game-making-with-scratch/facilitator-guide.html">ladieslearningcode.github.io/klc-game-making-with-scratch/facilitator-guide.html</a>
 
@@ -8,14 +8,14 @@ Preview Slides: <a href="https://ladieslearningcode.github.io/klc-game-making-wi
 
 Activity List: <a href="http://bit.ly/scratch-activity-list">bit.ly/scratch-activity-list</a>
 
-##Additional Resources (Optional)
+## Additional Resources (Optional)
 
 Unplugged Activities: <a href="http://bit.ly/unplugged-activities-doc">bit.ly/unplugged-activities-doc</a>
 
 Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-doc">bit.ly/youth-facilitator-handbook-doc</a>
 
 
-#HOW TO USE:
+# HOW TO USE:
 ## Before the Workshop
 1 Week to Go
 
@@ -33,7 +33,6 @@ Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-do
 
 * Update the slides (in a text editor, like <a href="https://atom.io/">atom.io</a>):
     * Insert the network info and bit.ly link to the Scratch class (Slide 1 and 21)
-    * Edit the facilitator info with your photo and details (Slide 2 and 23)
     * Edit the Agenda to adjust timing and/or activities, if applicable (Slide 5)
     * Replace the Example Project URL, if applicable (Slide 10)
 
