@@ -1,6 +1,6 @@
 # Kids Learning Code: Gamemaking with Scratch
 
-## Quick Links
+##  Quick Links
 
 Preview Facilitator Guide: <a href="https://ladieslearningcode.github.io/klc-game-making-with-scratch/facilitator-guide.html">ladieslearningcode.github.io/klc-game-making-with-scratch/facilitator-guide.html</a>
 
@@ -40,7 +40,7 @@ Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-do
 
 * Print Facilitator Guide and Solution Sheets (found in Activity List) to bring to the workshop.
 
-## During the Workshsop
+## During the Workshop
 * Have Facilitator Guide accessible throughout the workshop, follow along in the guide for support.
 * Use the slides to support the Kick-Off and Introduction.
 
