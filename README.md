@@ -4,9 +4,9 @@
 
 ## Quick Links
 
-Preview Lead Instructor Notes: <a href="https://ladieslearningcode.github.io/klc-game-making-with-scratch/notes-en.html">ladieslearningcode.github.io/klc-game-making-with-scratch/notes-en.html</a>
+Preview Lead Instructor Notes: <a href="https://ladieslearningcode.github.io/klc-gamemaking-with-scratch/notes-en.html">ladieslearningcode.github.io/klc-gamemaking-with-scratch/notes-en.html</a>
 
-Preview Slides: <a href="https://ladieslearningcode.github.io/klc-game-making-with-scratch/slides-en.html">ladieslearningcode.github.io/klc-game-making-with-scratch/slides-en.html</a>
+Preview Slides: <a href="https://ladieslearningcode.github.io/klc-gamemaking-with-scratch/slides-en.html">ladieslearningcode.github.io/klc-gamemaking-with-scratch/slides-en.html</a>
 
 Activity List: <a href="http://bit.ly/scratch-activity-list">bit.ly/scratch-activity-list</a>
 
@@ -66,9 +66,9 @@ Email questions & comments to <content@ladieslearningcode.com>.
 
 ## Liens vers les ressources
 
-Aperçu du Notes pour les enseignants propre à l'atelier : <a href="https://ladieslearningcode.github.io/klc-game-making-with-scratch/notes-fr.html">ladieslearningcode.github.io/klc-game-making-with-scratch/notes-fr.html</a>
+Aperçu du Notes pour les enseignants propre à l'atelier : <a href="https://ladieslearningcode.github.io/klc-gamemaking-with-scratch/notes-fr.html">ladieslearningcode.github.io/klc-gamemaking-with-scratch/notes-fr.html</a>
 
-Aperçu des diapositives: <a href="https://ladieslearningcode.github.io/klc-game-making-with-scratch/slides-fr.html">ladieslearningcode.github.io/klc-game-making-with-scratch/slides-fr.html</a>
+Aperçu des diapositives: <a href="https://ladieslearningcode.github.io/klc-gamemaking-with-scratch/slides-fr.html">ladieslearningcode.github.io/klc-gamemaking-with-scratch/slides-fr.html</a>
 
 Liste d'activités Scratch : <a href="http://bit.ly/liste-d-activités-scratch">bit.ly/liste-d-activités-scratch</a> (onglet Animation)
 
